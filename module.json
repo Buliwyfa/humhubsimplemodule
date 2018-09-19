@@ -1,0 +1,10 @@
+{
+    "id": "Elearning",
+    "name": "Elearning Portal for technical support",
+    "description": "In this portal you can find multiple videos according to help that you need during your differents missions",
+    "keywords": ["elearning", "video"],
+    "version": "1.0",
+    "humhub": {
+        "minVersion": "1.3.1"
+    }
+}
